@@ -1,2 +1,3 @@
 *.md text eol=crlf
 *.ttf binary
+*.TTF binary
